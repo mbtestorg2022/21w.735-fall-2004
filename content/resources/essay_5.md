@@ -5,6 +5,7 @@ description: 'Guidelines for Assignment 5, the final essay assignment for the co
   extend an earlier essay 3. embark upon a new project.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-735-writing-and-reading-the-essay-fall-2004/c45c3821c6969bdc588edb37ecfc9e2f_essay_5.pdf
 file_type: application/pdf
+parent_uid: f73f838f-614e-79c8-4725-5969f0f6836b
 resourcetype: Document
 title: essay_5.pdf
 uid: c45c3821-c696-9bdc-588e-db37ecfc9e2f
